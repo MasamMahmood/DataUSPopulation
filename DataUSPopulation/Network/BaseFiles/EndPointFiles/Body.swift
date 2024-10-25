@@ -7,7 +7,7 @@
 
 import Foundation
 
-// MARK: - Path
+// MARK: - Body
 enum Body {
     case nilBody
     
